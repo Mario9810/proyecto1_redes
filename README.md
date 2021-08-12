@@ -1,4 +1,4 @@
-# proyecto1_redes
+# proyecto #1 Redes
 El proyecto consiste en implementar un cliente que soporte el protocolo XMPP. 
 
 ## Installation
