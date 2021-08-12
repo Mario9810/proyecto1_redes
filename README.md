@@ -12,8 +12,6 @@ $ virtualenv env
 $ cd env\Scripts\
 $ activate.bat
 
-# Activate the virtual environment Linux
-$ source env/bin/activate
 
 $ cd ../..
 $ pip install -r r.txt
