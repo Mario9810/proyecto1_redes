@@ -16,3 +16,7 @@ $ activate.bat
 $ cd ../..
 $ pip install -r r.txt
 ```
+run  
+```
+python Main.py
+```
