@@ -19,5 +19,5 @@ python Main.py
 ```
 
 
-Link del video hacía las funcionalidades
+Link to video showing functions
 https://youtu.be/37xJhGH3Izk
